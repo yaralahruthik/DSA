@@ -1,7 +1,7 @@
 # DSA
 My collection of Data Structures and Algorithms (*Python*)
 
-A note on how to actually learn these data structures and algorithms:
+A note on how to efficiently learn these data structures and algorithms:
 
 * Use https://visualgo.net/ and https://www.toptal.com/developers/sorting-algorithms
 
