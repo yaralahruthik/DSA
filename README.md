@@ -1,5 +1,9 @@
 # DSA
-My collection of Data Structures and Algorithms
+My collection of Data Structures and Algorithms (*Python*)
+
+A note on how to actually learn these data structures and algorithms:
+
+* Use https://visualgo.net/ and https://www.toptal.com/developers/sorting-algorithms
 
 Data Structures:
 1. Arrays
@@ -12,5 +16,5 @@ Data Structures:
 Algorithms:
 1. Recursion
 2. Sorting
-3. Searching (Pending)
-4. Dynamic Programming (Pending)
+3. Searching and Traversal 
+4. Dynamic Programming (Solutions to Leetcode problems pending)
