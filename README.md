@@ -1,5 +1,5 @@
 # DSA
-My collection of Data Structures and Algorithms (*Python*)
+My collection of Data Structures and Algorithms (*Python* and *JavaScript*)
 
 A note on how to efficiently learn these data structures and algorithms:
 
